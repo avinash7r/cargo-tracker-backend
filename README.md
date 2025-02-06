@@ -7,7 +7,7 @@ Create a `.env` file in the root directory with the following variables:
 | Variable Name | Description | Example Value |
 |--------------|-------------|---------------|
 | `PORT` | Port number the server will run on | `3000` |
-| `MONGODB_URI` | Connection string for MongoDB database | `mongodb://localhost:27017/cargotracker` |
+| `MONGODB_URL` | Connection string for MongoDB database | `mongodb://localhost:27017/cargotracker` |
 
 ## API Routes
 
